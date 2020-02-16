@@ -1,8 +1,0 @@
-https://www.abercrombie.com/shop/us/mens-coats-and-jackets/?filtered=true&rows=240&start=0&facet=ads_f43002_ntk_cs:(%22XS%22)
-https://www.abercrombie.com/shop/us/mens-shoes/?filtered=true&rows=240&start=0&facet=ads_f43002_ntk_cs:(%227.5%20US%22%20%228%20US%22)
-https://www.abercrombie.com/shop/us/mens-jeans-bottoms/?filtered=true&rows=240&start=0&facet=ads_f43002_ntk_cs:(%2228W%22)
-https://www.abercrombie.com/shop/us/mens-hoodies-and-sweatshirts-tops/?filtered=true&rows=240&start=0&facet=ads_f43002_ntk_cs:(%22XS%22%20%22S%22)
-https://www.abercrombie.com/shop/us/mens-tees-and-henleys-tops/?filtered=true&rows=240&start=0&facet=ads_f43002_ntk_cs:(%22S%22)
-https://www.abercrombie.com/shop/us/mens-sweaters-tops/?filtered=true&rows=240&start=0&facet=ads_f43002_ntk_cs:(%22S%22)
-https://www.abercrombie.com/shop/us/mens-accessories
-https://www.abercrombie.com/shop/us/mens-shirts-tops/?filtered=true&rows=240&start=0&facet=ads_f43002_ntk_cs:(%22S%22)&facet=ads_f43001_ntk_cs:(%22Signature%22%20%22Regular%22)
